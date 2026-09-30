@@ -1,4 +1,3 @@
-# dahiwalyogesh-
 # Hi, I'm Yogesh Dahiwal 👋
 
 > Chef turned AI Developer — MSc Artificial Intelligence | Building real things with Python, SQL, and LLMs
@@ -12,7 +11,7 @@ Not just notebooks. Actual deployed applications that real users can access.
 ## 🚀 About Me
 
 - 🎓 MSc Artificial Intelligence with Business Strategy — Aston University
-- 📍 Based in Birmingham, UK | Open to roles across the UK
+- 📍 Based in Gloucester, UK | Open to roles across the UK
 - 💼 Seeking: Data Analyst / Data Scientist / AI Developer roles
 - 🛂 Post Study Work Visa — available immediately
 - 🔨 I build full-stack AI apps, not just models
